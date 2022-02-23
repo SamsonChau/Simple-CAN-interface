@@ -1,4 +1,4 @@
-# Simple-CAN-tester-using-arduino-mcp2515-library
+# Simple CAN remote debugger using esp32
 A simple custom CAN-BUS checker using esp32 and esp32-now protocal 
 * follow IGGG-cAN standard
 
