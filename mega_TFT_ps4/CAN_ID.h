@@ -7,7 +7,7 @@
 #define Motor_7_RevID 0x207
 #define Motor_8_RevID 0x208
 #define stm_id 0x200
-#define cmd_id 0x255
+#define cmd_id 0x15
 #define odom_id 0x100
 #define reset_id 0x000
 
